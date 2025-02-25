@@ -15,7 +15,7 @@ function App() {
         <Hello key={index} name={data.name} message={data.message} />
       ))}
 
-      <Contact email="kanruethai@gmail.com" phone="0918218729" />
+      <Contact email="sirinyasawasdeeraksa@gmail.com" phone="0918218729" />
     </div>
   );
 }
